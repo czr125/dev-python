@@ -4,4 +4,4 @@
 
 cidades = ['Belém', 'Rio De Janeiro', 'São Paulo', 'Brasília']
 
-print(cidades)
+print(cidades[2]) # [2] -> Index

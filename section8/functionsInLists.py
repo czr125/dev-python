@@ -4,4 +4,10 @@
 
 cidades = ['Belém', 'Rio De Janeiro', 'São Paulo', 'Brasília']
 
+cidades.append('Nova Iguaçu')
+cidades.remove('Belém')
+cidades.insert(0, 'Belém')
+cidades.pop(2)
+
+
 print(cidades)
