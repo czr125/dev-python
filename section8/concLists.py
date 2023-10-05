@@ -9,7 +9,7 @@
 # print(final)
 
 #                0                    1
-itens = [['item1', 'item2'], ['item3', 'item4']]
+itens = [['item1', 'item2'] + ['item3', 'item4']]
 #           0          1         2         3
 
-print(itens[0][1])
+print(itens)
